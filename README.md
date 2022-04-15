@@ -1,6 +1,6 @@
 ## Welcome to TuxHome
 
-A open source project for home automatisation and domotic
+A open source project for home automation and domotic
 
 ### Source
 
